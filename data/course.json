@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ]
+  ],
+  "legacy_uid": "9da2fc60-e849-8375-6128-927f4d816640",
+  "instructors": {
+    "content": [
+      "197799f2-cf23-194a-59a8-c6714e0c5aaf",
+      "4770a912-0ac1-5c2b-2750-d819b534e616",
+      "10590796-e304-96d0-81f9-8adaf9bf03eb",
+      "742c671b-83ff-dc26-94ec-01222480e506",
+      "77e1a2ea-ff37-e655-a75d-4acfab88f5b2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "799b8841-96de-4349-94e4-8c64ef460cf6",
+    "website": "9-011-the-brain-and-cognitive-sciences-i-fall-2002"
+  },
+  "course_title": "The Brain and Cognitive Sciences I",
+  "course_description": "Survey of principles underlying the structure and function of the nervous system, integrating molecular, cellular, and systems approaches. Topics: development of the nervous system and its connections, cell biology or neurons, neurotransmitters and synaptic transmission, sensory systems of the brain, the neuro-endocrine system, the motor system, higher cortical functions, behavioral and cellular analyses of learning and memory. First half of an intensive two-term survey of brain and behavioral studies for first-year graduate students.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.011",
+  "course_image_thumbnail": {
+    "content": "bea0176e-3a73-5051-612a-26eb834b546a",
+    "website": "9-011-the-brain-and-cognitive-sciences-i-fall-2002"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "20183796-8ffd-463e-80ab-042adf38d4d0",
+  "site_short_id": "9.011-fall-2002",
+  "site_url_path": "courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002",
+  "title": "Course Metadata"
+}
